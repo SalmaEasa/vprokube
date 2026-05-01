@@ -130,10 +130,22 @@ Faced strict decoding issues due to incorrect indentation
 AWS resources kept running unintentionally
 ✔ Solved by automating cleanup using kops delete cluster
 
-### 📸 Demo / Screenshots (Optional but STRONGLY recommended)
-Kubernetes Pods Running
-Application UI
-AWS Console (EC2 / ELB)
+### 📸 Demo / Screenshots
+- Kubernetes Pods Running
+<p align="center">
+  <img src="./pods-deploys-svc.png"">
+</p>
+- Application UI
+<p align="center">
+  <img src="./application-ui.png"">
+</p>
+- AWS Console (EC2 / ELB)
+<p align="center">
+  <img src="./ec2-instances.png"">
+</p>
+<p align="center">
+  <img src="./created-alb.png"">
+</p>
 
 📌 What This Project Demonstrates
 - Real-world Kubernetes deployment (not just Minikube)
