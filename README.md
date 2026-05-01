@@ -29,7 +29,7 @@ It simulates a real-world system with:
 ## 🏗 Architecture
 
 <p align="center">
-  <img src="./architecture.png" width="80%">
+  <img src="./architecture.drawio.png" width="80%">
 </p>
 
 ### 🔍 Architecture Highlights
