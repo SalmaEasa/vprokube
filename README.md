@@ -29,7 +29,7 @@ It simulates a real-world system with:
 ## 🏗 Architecture
 
 <p align="center">
-  <img src="./architecture.drawio.png" width="80%">
+  <img src="/diagrams/architecture.drawio.png" width="80%">
 </p>
 
 ### 🔍 Architecture Highlights
@@ -133,18 +133,18 @@ AWS resources kept running unintentionally
 ### 📸 Demo / Screenshots
 - Kubernetes Pods Running
 <p align="center">
-  <img src="./pods-deploys-svc.png"">
+  <img src="/diagrams/pods-deploys-svc.png"">
 </p>
 - Application UI
 <p align="center">
-  <img src="./application-ui.png"">
+  <img src="/diagrams/application-ui.png"">
 </p>
 - AWS Console (EC2 / ELB)
 <p align="center">
-  <img src="./ec2-instances.png"">
+  <img src="/diagrams/ec2-instances.png"">
 </p>
 <p align="center">
-  <img src="./created-alb.png"">
+  <img src="/diagrams/created-alb.png"">
 </p>
 
 📌 What This Project Demonstrates
